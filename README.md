@@ -1,7 +1,7 @@
 # belajar-git
 Belajar Git untuk berkolaborasi
 
-Sejau ini sudah belajar mulai dari
+Sejauh ini sudah belajar mulai dari
 
 ```bash
 ~ membuat sebuah repository
