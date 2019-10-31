@@ -3,6 +3,7 @@ Belajar Git untuk berkolaborasi
 
 Sejau ini sudah belajar mulai dari
 
+```bash
 ~ membuat sebuah repository
 ~ melakukan clone pada repository yang sudah dibuat
   $ git clone https://github.com/puccteam/belajar-git.git
@@ -14,3 +15,4 @@ Sejau ini sudah belajar mulai dari
   $ git commit -m "comment"
 ~ Dan Menyimpan semua perubahan yang sudah di commit ke remote repository yang sudah dibuat
   $ git push
+```
